@@ -1,0 +1,2 @@
+/.well-known/* /.netlify/functions/:splat
+/* /.netlify/functions/:splat
